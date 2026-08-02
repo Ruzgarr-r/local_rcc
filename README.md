@@ -121,4 +121,4 @@ will make it get the stored bytecode from the `legalScripts` vector and send it
 over when serializing the property. The generation of the `NetworkSchema`
 occurs in `RBX::Network::NetworkSchema::generateSchemaDefinitionPacket`, and
 the portion of interest is when it chooses the corresponding
-`NetworkValueFormat` for the reflection type `ProtectedString`.
+`NetworkValueFormat` for the reflection type `ProtectedString`. a
